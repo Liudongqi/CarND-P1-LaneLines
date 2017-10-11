@@ -10,7 +10,7 @@
 
 在这个项目中你将使用 Python 和 OpenCV 检测图像中的直线。 OpenCV全称是“Open-Source Computer Vision”，意思是开源计算机视觉库，它是一个包含许多有许多图像处理工具的软件包。
 
-要完成该项目，你需要提交两个文件：一个项目代码的文件和一个简短的项目报告的文件，你需要在报告详细中介绍你的解决方案。我们已经包含了用于代码和报告的模板文件。代码文件是 [P1.ipynb](P1.ipynb)，报告模板是 [writeup_template.md](writeup_template.md)
+要完成该项目，你需要提交两个文件：一个项目代码的文件和一个简短的项目报告的文件，你需要在报告详细中介绍你的解决方案。我们已经包含了用于代码和报告的模板文件。代码文件是 [P1.ipynb](P1.ipynb)，报告模板是 [writeup_template.md](writeup_template.md)。
 
 要通过项目，需要满足[项目要求](https://review.udacity.com/#!/rubrics/322/view)。
 
@@ -35,9 +35,9 @@
 
 ## 如果你已经安装了[CarND Term1 Starter Kit](https://github.com/nd013/CarND-Term1-Starter-Kit)，做这个项目会很方便！如果没有安装，你应该去安装。
 
-**第一步：** 安装 [CarND Term1 Starter Kit](https://github.com/nd013/CarND-Term1-Starter-Kit)。如果你已经安装了，可以跳过这一步。课程链接：[CarND Term1 Starter Kit](https://classroom.udacity.com/nanodegrees/nd013/parts/fbf77062-5703-404e-b60c-95b78b2f3f9e/modules/83ec35ee-1e02-48a5-bdb7-d244bd47c2dc/lessons/8c82408b-a217-4d09-b81d-1bda4c6380ef/concepts/4f1870e0-3849-43e4-b670-12e6f2d4b7a7)
+**第一步：** 安装 [CarND Term1 Starter Kit](https://github.com/nd013/CarND-Term1-Starter-Kit)。如果你已经安装了，可以跳过这一步。课程链接：[CarND Term1 Starter Kit](https://classroom.udacity.com/nanodegrees/nd013/parts/fbf77062-5703-404e-b60c-95b78b2f3f9e/modules/83ec35ee-1e02-48a5-bdb7-d244bd47c2dc/lessons/8c82408b-a217-4d09-b81d-1bda4c6380ef/concepts/4f1870e0-3849-43e4-b670-12e6f2d4b7a7)。
 
-**第二步：** 在 Jupyter Notebook 中打开代码
+**第二步：** 在 Jupyter Notebook 中打开代码。
 
 你需要在 Jupyter Notebook 中完成代码，如果你不熟悉 Jupyter Notebook，可以看这个入门教程：[Cyrille Rossant's Basics of Jupyter Notebook and Python](https://www.packtpub.com/books/content/basics-jupyter-notebook-and-python) 。
 
