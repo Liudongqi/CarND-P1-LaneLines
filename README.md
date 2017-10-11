@@ -35,13 +35,13 @@
 
 ## 如果你已经安装了[CarND Term1 Starter Kit](https://github.com/nd013/CarND-Term1-Starter-Kit)，做这个项目会很方便！如果没有安装，你应该去安装。
 
-**第一步：** 如果你还没有安装 CarND Term1 Starter Kit，你应该安装。课程链接：[CarND Term1 Starter Kit](https://classroom.udacity.com/nanodegrees/nd013/parts/fbf77062-5703-404e-b60c-95b78b2f3f9e/modules/83ec35ee-1e02-48a5-bdb7-d244bd47c2dc/lessons/8c82408b-a217-4d09-b81d-1bda4c6380ef/concepts/4f1870e0-3849-43e4-b670-12e6f2d4b7a7)
+**第一步：** 安装 [CarND Term1 Starter Kit](https://github.com/nd013/CarND-Term1-Starter-Kit)。如果你已经安装了，可以跳过这一步。课程链接：[CarND Term1 Starter Kit](https://classroom.udacity.com/nanodegrees/nd013/parts/fbf77062-5703-404e-b60c-95b78b2f3f9e/modules/83ec35ee-1e02-48a5-bdb7-d244bd47c2dc/lessons/8c82408b-a217-4d09-b81d-1bda4c6380ef/concepts/4f1870e0-3849-43e4-b670-12e6f2d4b7a7)
 
 **第二步：** 在 Jupyter Notebook 中打开代码
 
-你需要在 Jupyter Notebook 中完成代码，如果你不熟悉 Jupyter Notebook，可以在这里 [Cyrille Rossant's Basics of Jupyter Notebook and Python](https://www.packtpub.com/books/content/basics-jupyter-notebook-and-python) 入门 Jupyter Notebook。
+你需要在 Jupyter Notebook 中完成代码，如果你不熟悉 Jupyter Notebook，可以看这个入门教程：[Cyrille Rossant's Basics of Jupyter Notebook and Python](https://www.packtpub.com/books/content/basics-jupyter-notebook-and-python) 。
 
-Jupyter 就是之前的 IPython Notebook，你可以交互式地运行代码块并查看结果。本项目的所有代码都包含在 Jupyter Notebook 中。 要在浏览器中启动 Jupyter，请先用终端 cd 到项目目录，然后在终端提示符下运行以下命令（请确保已按照 [CarND Term1 Starter Kit](https://github.com/nd013/CarND-Term1-Starter-Kit) 入门工具包安装说明中所述激活了Python 3 carnd-term1环境。）：
+Jupyter 就是之前的 IPython Notebook，你可以交互式地运行代码块并查看结果。本项目的所有代码都包含在 Jupyter Notebook 中。 要在浏览器中启动 Jupyter，请先在终端中切换到项目目录（cd 命令），然后在终端提示符下运行以下命令（请确保已按照 [CarND Term1 Starter Kit](https://github.com/nd013/CarND-Term1-Starter-Kit) 入门工具包安装说明中所述激活了 Python 3 carnd-term1 环境。）：
 
 `jupyter notebook`
 
@@ -51,6 +51,6 @@ Jupyter 就是之前的 IPython Notebook，你可以交互式地运行代码块�
 
 ## 如何编写 README 文件
 
-写好 README 可以增强你的 GitHub 项目的吸引力，如果你想学习如何更好地写 README 文件，你可以学习这个免费课程：[编写 README 文档](https://www.udacity.com/course/writing-readmes--ud777)。
+写好 README 可以提升你的 GitHub 项目的吸引力，如果你想学习如何更好地写 README 文件，你可以学习这个免费课程：[编写 README 文档](https://www.udacity.com/course/writing-readmes--ud777)。
 
 
