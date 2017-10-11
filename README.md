@@ -12,7 +12,7 @@
 
 要完成该项目，你需要提交两个文件：一个项目代码的文件和一个简短的项目报告的文件，你需要在报告详细中介绍你的解决方案。我们已经包含了用于代码和报告的模板文件。代码文件是 [P1.ipynb](P1.ipynb)，报告模板是 [writeup_template.md](writeup_template.md)。
 
-要通过项目，需要满足[项目要求](https://review.udacity.com/#!/rubrics/322/view)。
+通过项目需要满足该项目的每一条[项目要求](https://review.udacity.com/#!/rubrics/322/view)。
 
 如何写好思路报告
 ---
