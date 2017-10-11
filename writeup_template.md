@@ -1,47 +1,39 @@
-# **Finding Lane Lines on the Road** 
+# **车道线检测** 
 
-## Writeup Template
+## 报告模板
 
-### You can use this file as a template for your writeup if you want to submit it as a markdown file. But feel free to use some other method and submit a pdf if you prefer.
+### 如果你想提交 markdown 格式的报告，你可以参考这个模板来写。当然你也可以用 word 或者其他的软件来写，只要你最后提交的文件是 pdf 格式或者 markdown 格式的文件就行。
+---
+
+**车道线检测**
+
+项目的步骤分为以下几点：
+
+* 写一个能够识别车道线的算法
+* 在报告中反思缺点，并提出改进方案
 
 ---
 
-**Finding Lane Lines on the Road**
+### 反思
 
-The goals / steps of this project are the following:
-* Make a pipeline that finds lane lines on the road
-* Reflect on your work in a written report
+### 1. 详细描述你的算法，解释你是如何改进的 draw_lines 函数。
 
+我的算法一共有五个步骤。首先我将图片转为灰度图，然后……
 
-[//]: # (Image References)
+为了只在左边画一条线，而不是把霍夫变换检测到的所有线段都画出来，我修改了 draw_lines 函数的……
 
-[image1]: ./examples/grayscale.jpg "Grayscale"
+> 如果你想在报告中引用一些图片，可以看下面的例子：
 
----
+![image1](./examples/grayscale.jpg)
 
-### Reflection
+### 2. 报告你目前的算法可能存在的问题
 
-### 1. Describe your pipeline. As part of the description, explain how you modified the draw_lines() function.
+有个问题可能会发生，比如……
 
-My pipeline consisted of 5 steps. First, I converted the images to grayscale, then I .... 
+还有个问题是……
 
-In order to draw a single line on the left and right lanes, I modified the draw_lines() function by ...
+### 3. 提出可能的解决方案来改进你的算法
 
-If you'd like to include images to show how the pipeline works, here is how to include an image: 
+一个可行的解决方案是……
 
-![alt text][image1]
-
-
-### 2. Identify potential shortcomings with your current pipeline
-
-
-One potential shortcoming would be what would happen when ... 
-
-Another shortcoming could be ...
-
-
-### 3. Suggest possible improvements to your pipeline
-
-A possible improvement would be to ...
-
-Another potential improvement could be to ...
+还有一种方法可能也行……
